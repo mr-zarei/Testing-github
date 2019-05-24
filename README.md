@@ -1,2 +1,4 @@
 # Testing-github
-we are testing github for education!
+we are using github for education!
+git hub is hub for git!
+hub is what connect things to each other in network!
